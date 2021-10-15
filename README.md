@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Ju Stefanes 
+## Oii! Eu sou a Juliana Stefanes
  <div>
   <a href="https://github.com/julisd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julisd&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
